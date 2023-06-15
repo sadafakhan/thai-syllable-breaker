@@ -1,4 +1,4 @@
-# thai-syllable-breaker. 
+# thai-syllable-breaker
 This program takes a text file of Thai text as input and runs it through an FSA designed to accept licit Thai syllables.
 It then returns a file with the input text segmented on syllable breaks.
 
